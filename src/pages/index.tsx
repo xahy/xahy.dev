@@ -10,7 +10,7 @@ const Home: NextPage = () => {
       </Head>
       <div className="max-w-xl mx-auto py-24 md:py-32 px-8 md:px-0 space-y-10">
         <div>
-          <h2 className="text-5xl font-bold mb-12">Hi there, I'm Zahee</h2>
+          <h2 className="text-5xl font-bold mb-12">Hi there, I&apos;m Zahee</h2>
           <div className="space-y-4">
             <p className="font-medium text-gray-600 leading-7">
               I am a Developer / Product Designer based in Maldives 🇲🇻
