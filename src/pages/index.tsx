@@ -12,10 +12,10 @@ const Home: NextPage = () => {
         <div>
           <h2 className="text-5xl font-bold mb-12">Hi there, I&apos;m Zahee</h2>
           <div className="space-y-4">
-            <p className="font-medium text-gray-600 leading-7">
+            <p className="text-gray-600 leading-7">
               I am a Developer / Product Designer based in Maldives 🇲🇻
             </p>
-            <p className="font-medium text-gray-600 leading-7">
+            <p className="text-gray-600 leading-7">
               Started my career at{" "}
               <a
                 target="_blank"
@@ -44,11 +44,11 @@ const Home: NextPage = () => {
                 LottieFiles
               </a>{" "}
             </p>
-            <p className="font-medium text-gray-600 leading-7">
+            <p className="text-gray-600 leading-7">
               In my spare time I do try to fiddle with Xcode to learn swift and
               play games.
             </p>
-            <p className="font-medium text-gray-600 leading-7">
+            <p className="text-gray-600 leading-7">
               You can find me on{" "}
               <a
                 href="https://twitter.com/@xahyx"
