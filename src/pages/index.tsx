@@ -60,6 +60,15 @@ const Home: NextPage = () => {
               </a>
               ,{" "}
               <a
+                href="https://dribbble.com/xahy"
+                target="_blank"
+                rel="noreferrer"
+                className="hover-underline-animation"
+              >
+                Dribbble
+              </a>
+              ,{" "}
+              <a
                 href="https://github.com/xahy"
                 target="_blank"
                 rel="noreferrer"
