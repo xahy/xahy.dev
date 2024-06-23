@@ -13,7 +13,7 @@ const Home: NextPage = () => {
           <h2 className="text-5xl font-bold mb-12">Hi there, I&apos;m Zahee</h2>
           <div className="space-y-4">
             <p className="text-gray-600 leading-7">
-              I am a Developer / Product Designer based in Maldives 🇲🇻
+              I am a Developer / Product Engineer based in Maldives 🇲🇻
             </p>
             <p className="text-gray-600 leading-7">
               Started my career at{" "}
@@ -34,7 +34,7 @@ const Home: NextPage = () => {
               >
                 Avas.mv
               </a>{" "}
-              and right now working as a Full-Stack Developer at{" "}
+              and right now working as a Sr. Full-Stack Developer at{" "}
               <a
                 target="_blank"
                 href="https://lottiefiles.com"
